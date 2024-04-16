@@ -1,0 +1,9 @@
+body{
+    background-color:black;
+}
+.nav-link{
+    color: white;
+}
+.nave-link:focus, .nav-link:hover{
+    color: white;
+}
